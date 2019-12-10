@@ -4,7 +4,7 @@
 
 Fairly straightforward wrapper for the Canada Post API. Handles basic rating, creating non-contract shipments, and tracking.
 
-[![NPM](https://nodei.co/npm/canadapost-api.png)](https://nodei.co/npm/canadapost-api/)
+[![NPM](https://nodei.co/npm/canadapost-api-international.png)](https://nodei.co/npm/canadapost-api-international/)
 
 # Documentation
 
