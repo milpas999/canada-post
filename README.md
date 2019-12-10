@@ -8,4 +8,4 @@ Fairly straightforward wrapper for the Canada Post API. Handles basic rating, cr
 
 # Documentation
 
-[API Documentation](https://github.com/t3rminus/canada-post/blob/master/API.md) is available [here](https://github.com/t3rminus/canada-post/blob/master/API.md).
+[API Documentation](https://github.com/milpas999/canada-post/blob/master/API.md) is available [here](https://github.com/milpas999/canada-post/blob/master/API.md).
