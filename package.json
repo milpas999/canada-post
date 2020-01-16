@@ -1,6 +1,6 @@
 {
 	"name": "canadapost-api-international",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "This package has minor changes for international rates api changes, this package is wrapper of canadapost-api npm package",
 	"main": "lib/canadapost.js",
 	"scripts": {
